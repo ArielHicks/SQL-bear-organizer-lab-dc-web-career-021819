@@ -1,4 +1,4 @@
-INSERT INTO bears ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears ('Mr. Chocolate', "12", 'M', 'brown', 'angry', 'true')
 INSERT INTO bears ('Rowdy', 10, 'F', 'purple', 'happy', 'true')
 INSERT INTO bears ('Tabitha', 5, 'M', 'brown', 'angry', 'true')
 INSERT INTO bears ('Sergeant Brown', 8, 'F', 'black', 'unfettered', 'true')
