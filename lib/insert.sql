@@ -1,5 +1,4 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
-
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 10, 'F', 'purple', 'happy', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 5, 'M', 'brown', 'angry', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 8, 'F', 'black', 'unfettered', 'true')
