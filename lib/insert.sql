@@ -6,5 +6,3 @@ INSERT INTO ('Melissa', 2, 'M', 'orange', 'excited', 'true')
 INSERT INTO ('Grinch', 3, 'F', 'white', 'silly', 'true')
 INSERT INTO ('Wendy', 9, 'M', 'white and black', 'ashamed', 'false')
 INSERT INTO (nil, 2, 'F', 'calico', 'stoked', 'false')
-
--- unnamed (the bear that killed Tim didn't have a name; refer back to how to create a record that doesn't have one value)
