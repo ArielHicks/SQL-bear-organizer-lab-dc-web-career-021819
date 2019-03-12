@@ -2,7 +2,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Ch
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 10, 'F', 'purple', 'happy', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 5, 'M', 'brown', 'angry', 'true')
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 8, 'F', 'black', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 8, 'F', 'black', 'unfettered', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 2, 'M', 'orange', 'angry', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 3, 'F', 'white', 'angry', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 9, 'M', 'white and black', 'angry', 'true')
