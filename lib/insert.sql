@@ -5,4 +5,4 @@ INSERT INTO bears VALUES (4, 'Sergeant Brown', 8, 'F', 'black', 'unfettered', 't
 INSERT INTO bears VALUES (5, 'Melissa', 2, 'M', 'orange', 'excited', 'true')
 INSERT INTO bears VALUES (6, 'Grinch', 3, 'F', 'white', 'silly', 'true')
 INSERT INTO bears VALUES (7, 'Wendy', 9, 'M', 'white and black', 'ashamed', 'false')
-INSERT INTO bears VALUES (8, nil, 2, 'F', 'calico', 'stoked', 'false')
+INSERT INTO bears VALUES (8, null, 2, 'F', 'calico', 'stoked', 'false')
