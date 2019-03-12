@@ -1,9 +1,13 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
 
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 12, 'M', 'brown', 'angry', 'true')
 
---
--- Mr. Chocolate
--- Rowdy
 -- Tabitha
 -- Sergeant Brown
 -- Melissa
