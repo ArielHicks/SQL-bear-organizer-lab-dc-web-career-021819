@@ -5,7 +5,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabith
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 8, 'F', 'black', 'unfettered', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 2, 'M', 'orange', 'excited', 'true')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 3, 'F', 'white', 'silly', 'true')
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 9, 'M', 'white and black', 'ashamed', 'true')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 9, 'M', 'white and black', 'ashamed', 'false')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (nil, 2, 'F', 'calico', 'stoked', 'false')
 
 -- unnamed (the bear that killed Tim didn't have a name; refer back to how to create a record that doesn't have one value)
